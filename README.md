@@ -10,15 +10,15 @@
 
 
 ### Linguagem de Programação :computer:
-|<img src="./src/c.png">|<img src="./src/python.png">|<img src="./src/Dart.png" width=48>|<img src="./src/Haskell.png" width=48>|
+|<img src=".https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/c.png">|<img src=".https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/python.png">|<img src="https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/Dart.png" width=48>|<img src=".https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/Haskell.png" width=48>|
 |:---:|:---:|:---:|:---:|
 
 ### Frameworks :wrench:
-|<img src="./src/Frameworks/flutter.png">|<img src="./src/Frameworks/ionic.png">|
+|<img src="https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/Frameworks/flutter.png">|<img src="https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/Frameworks/ionic.png">|
 |:---:|:---:|
 
 ### Ferramentas :rocket:
-|<img src="./src/tools/github.png">|<img src="./src/tools/visualstudio.png">|<img src="./src/tools/linux.png">|
+|<img src="https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/tools/github.png">|<img src="https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/tools/visualstudio.png">|<img src="https://github.com/Robsonvieira26/Robsonvieira26/tree/master/src/tools/linux.png">|
 |:---:|:---:|:---:|
 
 ### Entre em contato :speech_balloon:
