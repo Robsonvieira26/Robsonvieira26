@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá Devs :wave:, 
+<p align="center">
+  <samp>
+    Eu sou Robson, atualmente tenho 20 anos, sou estudante de Ciência da Computação na <a href="http://www.ufu.br/">@UFU :school: e aspirante a Desenvolvedor Mobile :iphone:</a> Interessado em trabalhar em segurança da informação, backend, API's 
+  </samp>
+</p>
 
-<!--
-**Robsonvieira26/Robsonvieira26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagem de Programação :computer:
+|x|y|z|a|
+|:---:|:---:|:---:|:---:|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas :wrench:
+|x|y|z|a|
+|:---:|:---:|:---:|:---:|
