@@ -25,4 +25,5 @@
 
 <a href="mailto:robsonroberto99@gmail.com?Subject=Contato%20do%Github"><img align="left" alt="Email de Robson" width="25px" src="./src/contact/gmail.png" /></a> <a href="https://www.linkedin.com/in/robson-vieira-a1ba951a7/"><img align="left" alt="Linkedin de Robson" width="25px" src="./src/contact/linkedin.png"/></a>
 <br><br>
-<img align="center" src="https://octodex.github.com/images/nyantocat.gif" width=150>
+<p align="center">
+<img align="center" src="https://octodex.github.com/images/nyantocat.gif" width=350></p>
