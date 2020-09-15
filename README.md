@@ -4,9 +4,10 @@
   <img src="https://octodex.github.com/images/codercat.jpg" width=200>
 <br><br>
     Eu sou Robson, atualmente tenho 20 anos, sou estudante de Ciência da Computação na <a href="http://www.ufu.br/">@UFU</a> :school: e aspirante a Desenvolvedor Mobile :iphone: </a> <br>Interessado em trabalhar em segurança da informação, backend, API's.
-    <br>Atualmente estudando Python e Java.
+    <br>Atualmente estudando Flutter e Haskell.
   </samp>
 </p>
+
 
 
 
