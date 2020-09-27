@@ -24,7 +24,4 @@
 
 <a href="mailto:robsonvieirajr@protonmail.com?Subject=Contato%20do%Github"><img align="left" alt="Email de Robson" width="25px" src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/contact/gmail.png" /></a> <a href="https://www.linkedin.com/in/robson-vieira-a1ba951a7/"><img align="left" alt="Linkedin de Robson" width="25px" src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/contact/linkedin.png"/></a>
 <br><br>
-
-<p align="center">
-<img align="center" src="https://octodex.github.com/images/pythocat.png" width=350></p>
-
+![Robsonvieira26 GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonvieira26&count_private=true&show_icons=true)
