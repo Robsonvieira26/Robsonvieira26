@@ -19,7 +19,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 
 ### Ferramentas :rocket:
-| <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/github.png" width="100" height="100"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/visualstudio.png" width="100" height="100" > | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/linux.png" width="100" height="100"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/docker.svg" width="100" height="100"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/kali-logo.png" width="100" height="100"> |
+| <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/github.png"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/visual-studio-code.png"  > | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/linux.png" > | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/docker.png"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/kali-linux.png"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ### Entre em contato :speech_balloon:
