@@ -3,10 +3,11 @@
   <samp>
   <img src="https://octodex.github.com/images/codercat.jpg" width=200>
 <br><br>
-    Eu sou Robson, atualmente tenho 20 anos, sou estudante de Ciência da Computação na <a href="http://www.ufu.br/">@UFU</a> :school: e aspirante a Desenvolvedor Mobile :iphone: </a> <br>Interessado em trabalhar em segurança da informação, backend, API's.
-    <br>Atualmente estudando Flutter e ReactJS.
+    Eu sou Robson, atualmente tenho 21 anos, sou estudante de Ciência da Computação na <a href="http://www.ufu.br/">@UFU</a> :school: e aspirante a Desenvolvedor Mobile :iphone: </a> 
+    <br>Atualmente estudando Python e Segurança da Informação.
   </samp>
 </p>
+
 
 
 
@@ -18,8 +19,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 
 ### Ferramentas :rocket:
-|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/github.png">|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/visualstudio.png">|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/linux.png">|
-|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/github.png"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/visualstudio.png"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/linux.png"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/docker.svg"> | <img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/tools/kali-logo.png"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ### Entre em contato :speech_balloon:
 
