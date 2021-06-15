@@ -15,7 +15,7 @@
 
 
 ### Linguagem de Programação :computer:
-|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/c.png">|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/python.png">|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/Dart.png" width=48>|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/Haskell.png" width=48>|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/java.png">|
+|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/c.png" width="100" height="100">|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/python.png" width="100" height="100">|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/Dart.png" width="100" height="100">|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/Haskell.png" width="100" height="100">|<img src="https://raw.githubusercontent.com/Robsonvieira26/Robsonvieira26/master/src/java.png" width="100" height="100">|
 |:---:|:---:|:---:|:---:|:---:|
 
 ### Ferramentas :rocket:
